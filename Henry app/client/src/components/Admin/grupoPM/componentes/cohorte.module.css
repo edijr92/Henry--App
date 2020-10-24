@@ -1,0 +1,19 @@
+.grid{ 
+    
+    margin-bottom: 25px;
+    margin-top: 25px;    
+
+}
+
+.letra {
+    margin-top: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.button{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+ 
+}

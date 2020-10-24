@@ -1,0 +1,21 @@
+.container{
+    width: 80%;
+    margin: auto;
+    border: black solid 3px;
+}
+
+.container2 {
+    width: 80%;
+}
+
+.regresar {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+}
+
+
+
+
+

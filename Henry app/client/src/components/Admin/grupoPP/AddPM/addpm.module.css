@@ -1,0 +1,40 @@
+.container {
+    width: 500px;
+    border: black 2px solid;
+    border-radius: 10px;
+    height:  300px;
+
+}
+.aside{
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 10px 0px 0px 20px;
+    position: relative;
+    max-width: 250px;
+    min-width: 250px;
+    float: left;
+    margin: 15px auto;
+    
+  }
+
+  .admin{
+    position: relative;
+    width: 100%;
+    display: flex;
+    background-color: #fff;
+    padding-bottom: 20px;
+    min-height: 400px;
+    
+  }
+
+  .aside h3{
+    margin: 0;
+    display: block;
+    padding: 20px 0;
+    color: white;
+    background-color: black;
+  }
+
+  .boton{
+      margin-top: 10px ;
+  }

@@ -1,0 +1,25 @@
+/* .color {
+    background-color: rgb(255, 255, 1);
+    margin: auto;
+
+} */
+
+.container{
+    margin-bottom: 100px;
+    margin: auto;
+    width: 400px;
+    margin-top: 100px;
+    padding: 10px 10px 10px 10px;
+    border: solid 2px black;
+
+}
+
+.inputs{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.margin{
+    margin-top: 10px;
+
+}

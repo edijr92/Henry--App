@@ -1,0 +1,12 @@
+.titulo{ 
+    display: flex;
+    justify-content: flex-start;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 25px;
+    text-decoration: currentColor;
+}
+
+.nav{
+    background-color: black;
+}

@@ -1,0 +1,11 @@
+.grid{ 
+    display: grid;
+    grid-template-columns: 150px  150px  150px  150px  254px;
+    margin-top: 15px;    
+
+}
+
+.letra {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}

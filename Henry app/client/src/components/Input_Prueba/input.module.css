@@ -1,0 +1,25 @@
+.color {
+    background-color: rgb(255, 255, 1);
+    margin: auto;
+
+}
+
+.container{
+    margin-bottom: 200px;
+    margin: auto;
+    width: 400px;
+    margin-top: 50px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    
+}
+
+.inputs{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.amarillo{
+    color: yellow;
+    
+}

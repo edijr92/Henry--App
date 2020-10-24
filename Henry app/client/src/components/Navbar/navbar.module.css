@@ -1,0 +1,61 @@
+.color {
+    background-color: black;
+    height: 60px;
+
+}
+
+.letras  {
+    color: black;
+    display: flex;
+    text-align: left;
+}
+
+
+.titulosnav{
+    color: white;
+    text-decoration: none;
+    
+    
+}
+.imagen{
+    height: 60px;
+    margin-top: 10px;
+    width: 200px;
+}
+.amarillo{
+   
+    color: rgb(255, 255, 1);
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+  }
+
+  
+
+
+  .user{
+      margin-left: auto;
+      color: yellow;
+  }
+ 
+  .nolink{
+      text-decoration: none;
+      color: black;
+  }
+  
+ .divs{
+     width: 80px;
+
+ }
+
+ /* .div{
+     margin-left: 100px;
+ } */
+
+ .equipo{
+     display: inline;
+ }
+
+ 
